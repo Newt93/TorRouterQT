@@ -2,6 +2,6 @@
 A simple Tor Network router that has a PyQt GUI 
 
 Dependencies:
-PyQt5
-stem
-requests
+- PyQt5
+- stem
+- requests
